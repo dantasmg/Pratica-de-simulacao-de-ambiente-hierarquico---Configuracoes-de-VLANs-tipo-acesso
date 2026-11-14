@@ -4,7 +4,7 @@
 **Curso:** Superior de Tecnologia em Redes de Computadores  
 **Disciplina:** Comutação de Redes Locais (TCN.0639)  
 **Docente:** Prof. Jhordano Malacarne Bravim  
-**Autor(a):** [DIGITE SEU NOME AQUI]  
+**Autor(a):** Mariane Gonçalves Dantas 
 **Ferramenta:** Cisco Packet Tracer
 
 ## 1. Objetivo da Atividade
@@ -14,7 +14,7 @@ Configurar duas VLANs nos 4 switches da **Camada de Acesso** (`Switch4`, `Switch
 
 ## 2. Diagrama da Topologia
 
-[Simula%C3%A7%C3%A3o%20I.png]
+<img width="847" height="626" alt="Print Packet Tracer" src="https://github.com/user-attachments/assets/5176690c-52df-4046-a569-c5b4be5b5811" />
 
 ## 3. Fundamentação e Documentação Técnica
 
